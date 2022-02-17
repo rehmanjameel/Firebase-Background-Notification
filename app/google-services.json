@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "114567330568",
+    "project_id": "fir-pushnotification-a2839",
+    "storage_bucket": "fir-pushnotification-a2839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114567330568:android:f9b2cfaf2cd46cf0234abd",
+        "android_client_info": {
+          "package_name": "com.example.firebasebackgroundnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114567330568-4od0ueq5hgop2bkkn4pt7b91m60ud1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIziRpjHDw_WnRCjSmuyUQaGERkkF6GEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114567330568-4od0ueq5hgop2bkkn4pt7b91m60ud1te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114567330568:android:dcb71c46bf1c1d8b234abd",
+        "android_client_info": {
+          "package_name": "org.deskconn.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114567330568-4od0ueq5hgop2bkkn4pt7b91m60ud1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIziRpjHDw_WnRCjSmuyUQaGERkkF6GEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114567330568-4od0ueq5hgop2bkkn4pt7b91m60ud1te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
